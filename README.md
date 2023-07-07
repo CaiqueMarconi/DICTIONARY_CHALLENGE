@@ -280,6 +280,7 @@ Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobr
 
 1. Flutte/Dart
 2. nodeJS para construir api com as palavras
+#  OBS: disponivel em https://github.com/CaiqueMarconi/dictionary_api
 3. TDD para realização de testes do clean dart
 4. Clean dart pattern do projeto
 5. Modular controle de rotas e injeção de dependencias
