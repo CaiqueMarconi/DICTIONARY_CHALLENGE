@@ -289,6 +289,9 @@ Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobr
 8. SQFLITE para salvar as palavras localmente.
 9. SharedPreferences para salvar os primeios indexes da lista para carregamento mais rapido
 
+# LINK DO VIDEO:
+https://www.youtube.com/watch?v=vwuUKp1psRk&ab_channel=CaiqueMarconi
+
 # INSTRUÇÕES DE USO
 . clonar o repositorio e gerar o apk, ou me pedir que envio o apk.
 
