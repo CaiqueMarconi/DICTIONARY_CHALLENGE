@@ -290,6 +290,7 @@ Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobr
 9. SharedPreferences para salvar os primeios indexes da lista para carregamento mais rapido
 
 # LINK DO VIDEO:
+https://www.loom.com/share/9b6a77e90dd74833aaa1825591358a21
 
 
 # INSTRUÇÕES DE USO
